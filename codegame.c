@@ -4,7 +4,6 @@
 #include <stdbool.h>
 #include <string.h>
 #include <wchar.h>
-#include "global.c"
 #include "tabelas.c"
 
 
